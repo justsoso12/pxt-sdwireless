@@ -1,0 +1,18 @@
+{
+    "name": "sdwireless",
+    "version": "0.2.0",
+    "description": "SD Wireless with reliability improvements for games - Optimized for MakeCode Arcade",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "edge-connector": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh-CN/sdwireless-strings.json"
+    ],
+    "public": true,
+    "preferredEditor": "tsprj",
+    "testFiles": []
+}
